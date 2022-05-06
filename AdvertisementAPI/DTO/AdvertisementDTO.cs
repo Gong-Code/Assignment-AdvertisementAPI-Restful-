@@ -11,6 +11,5 @@ namespace AdvertisementAPI.DTO
         public string NewsPaper { get; set; }
         public decimal Price { get; set; }
 
-        
     }
 }
